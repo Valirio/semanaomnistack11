@@ -1,0 +1,1 @@
+sessions e delete do sistema ainda não estão snedo executado corretamente, verificar os dados.
